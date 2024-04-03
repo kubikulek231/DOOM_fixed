@@ -67,9 +67,9 @@
 
 #define DETAILHI	"High detail"
 #define DETAILLO	"Low detail"
-#define GAMMALVL0	"Gamma correction OFF"
-#define GAMMALVL1	"Gamma correction level 1"
-#define GAMMALVL2	"Gamma correction level 2"
+#define GAMMALVL0	"Jakub Lepik"
+#define GAMMALVL1	"Martin Moncek"
+#define GAMMALVL2	"Matej Baranyk"
 #define GAMMALVL3	"Gamma correction level 3"
 #define GAMMALVL4	"Gamma correction level 4"
 #define EMPTYSTRING	"empty slot"
@@ -336,22 +336,22 @@
 //	ST_stuff.C
 //
 
-#define STSTR_MUS		"Music Change"
-#define STSTR_NOMUS		"IMPOSSIBLE SELECTION"
-#define STSTR_DQDON		"Degreelessness Mode On"
-#define STSTR_DQDOFF	"Degreelessness Mode Off"
+#define STSTR_MUS		"Jakub Lepik, Martin Moncek, Matej Baranyk"
+#define STSTR_NOMUS		"Jakub Lepik, Martin Moncek, Matej Baranyk"
+#define STSTR_DQDON		"Jakub Lepik, Martin Moncek, Matej Baranyk"
+#define STSTR_DQDOFF	"Jakub Lepik, Martin Moncek, Matej Baranyk"
 
-#define STSTR_KFAADDED	"Very Happy Ammo Added"
-#define STSTR_FAADDED	"Ammo (no keys) Added"
+#define STSTR_KFAADDED	"Jakub Lepik, Martin Moncek, Matej Baranyk"
+#define STSTR_FAADDED	"Jakub Lepik, Martin Moncek, Matej Baranyk"
 
-#define STSTR_NCON		"No Clipping Mode ON"
-#define STSTR_NCOFF		"No Clipping Mode OFF"
+#define STSTR_NCON		"Jakub Lepik, Martin Moncek, Matej Baranyk"
+#define STSTR_NCOFF		"Jakub Lepik, Martin Moncek, Matej Baranyk"
 
-#define STSTR_BEHOLD	"inVuln, Str, Inviso, Rad, Allmap, or Lite-amp"
-#define STSTR_BEHOLDX	"Power-up Toggled"
+#define STSTR_BEHOLD	"Jakub Lepik, Martin Moncek, Matej Baranyk"
+#define STSTR_BEHOLDX	"Jakub Lepik, Martin Moncek, Matej Baranyk"
 
-#define STSTR_CHOPPERS	"... doesn't suck - GM"
-#define STSTR_CLEV		"Changing Level..."
+#define STSTR_CHOPPERS	"Jakub Lepik, Martin Moncek, Matej Baranyk"
+#define STSTR_CLEV		"Jakub Lepik, Martin Moncek, Matej Baranyk"
 
 //
 //	F_Finale.C
