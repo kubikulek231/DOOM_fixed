@@ -336,22 +336,22 @@
 //	ST_stuff.C
 //
 
-#define STSTR_MUS		"Jakub Lepik, Martin Moncek, Matej Baranyk"
-#define STSTR_NOMUS		"Jakub Lepik, Martin Moncek, Matej Baranyk"
-#define STSTR_DQDON		"Jakub Lepik, Martin Moncek, Matej Baranyk"
-#define STSTR_DQDOFF	"Jakub Lepik, Martin Moncek, Matej Baranyk"
+#define STSTR_MUS		   "Jakub Lepik, Martin Moncek, Matej Baranyk"
+#define STSTR_NOMUS		 "Jakub Lepik, Martin Moncek, Matej Baranyk"
+#define STSTR_DQDON		 "Jakub Lepik, Martin Moncek, Matej Baranyk"
+#define STSTR_DQDOFF	 "Jakub Lepik, Martin Moncek, Matej Baranyk"
 
-#define STSTR_KFAADDED	"Jakub Lepik, Martin Moncek, Matej Baranyk"
-#define STSTR_FAADDED	"Jakub Lepik, Martin Moncek, Matej Baranyk"
+#define STSTR_KFAADDED "Jakub Lepik, Martin Moncek, Matej Baranyk"
+#define STSTR_FAADDED	 "Jakub Lepik, Martin Moncek, Matej Baranyk"
 
-#define STSTR_NCON		"Jakub Lepik, Martin Moncek, Matej Baranyk"
-#define STSTR_NCOFF		"Jakub Lepik, Martin Moncek, Matej Baranyk"
+#define STSTR_NCON		 "Jakub Lepik, Martin Moncek, Matej Baranyk"
+#define STSTR_NCOFF		 "Jakub Lepik, Martin Moncek, Matej Baranyk"
 
-#define STSTR_BEHOLD	"Jakub Lepik, Martin Moncek, Matej Baranyk"
-#define STSTR_BEHOLDX	"Jakub Lepik, Martin Moncek, Matej Baranyk"
+#define STSTR_BEHOLD	 "Jakub Lepik, Martin Moncek, Matej Baranyk"
+#define STSTR_BEHOLDX	 "Jakub Lepik, Martin Moncek, Matej Baranyk"
 
-#define STSTR_CHOPPERS	"Jakub Lepik, Martin Moncek, Matej Baranyk"
-#define STSTR_CLEV		"Jakub Lepik, Martin Moncek, Matej Baranyk"
+#define STSTR_CHOPPERS "Jakub Lepik, Martin Moncek, Matej Baranyk"
+#define STSTR_CLEV		 "Jakub Lepik, Martin Moncek, Matej Baranyk"
 
 //
 //	F_Finale.C
